@@ -326,7 +326,7 @@ Core doesn't handle sharding out of the box. For bots in 2,500+ servers, you'll 
 
 **Who this affects**: Large bots approaching Discord's limits
 
-### ⚠️ Limited Documentation (We're Working on It)
+### ⚠️ Limited Documentation
 
 The docs you're reading are new. Edge cases, advanced patterns, and real-world examples are still being written.
 
