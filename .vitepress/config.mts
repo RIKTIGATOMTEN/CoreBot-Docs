@@ -9,6 +9,7 @@ const discordJsSvg = fs.readFileSync(
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/CoreBot-Docs/",
   title: "RiktigaTomten's Core",
   description: "Documentation for Core's adaptive framework",
   cleanUrls: true,
